@@ -1,0 +1,3 @@
+include ':squircledrawable'
+include ':app'
+rootProject.name = "SquircleDrawable"
